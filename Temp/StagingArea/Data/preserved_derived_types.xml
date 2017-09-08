@@ -1,0 +1,26 @@
+<linker>
+<assembly fullname="Assembly-CSharp">
+<type fullname="ADManager" preserve="all"/>
+<type fullname="ButtonReact" preserve="all"/>
+<type fullname="Enemy" preserve="all"/>
+<type fullname="GameController" preserve="all"/>
+<type fullname="GateControl" preserve="all"/>
+<type fullname="GunBehavior" preserve="all"/>
+<type fullname="MathRead" preserve="all"/>
+<type fullname="MenuManager" preserve="all"/>
+<type fullname="Movement" preserve="all"/>
+<type fullname="Multiplication" preserve="all"/>
+<type fullname="NewBehaviourScript" preserve="all"/>
+<type fullname="SoundControl" preserve="all"/>
+<type fullname="SoundManager" preserve="all"/>
+<type fullname="Spawn" preserve="all"/>
+<type fullname="StarMovement" preserve="all"/>
+<type fullname="TextBlink" preserve="all"/>
+<type fullname="TouchInput" preserve="all"/>
+</assembly>
+<assembly fullname="UnityEngine.Advertisements">
+<type fullname="UnityEngine.Advertisements.Advertisement" preserve="all"/>
+<type fullname="UnityEngine.Advertisements.CallbackExecutor" preserve="all"/>
+<type fullname="UnityEngine.Advertisements.Editor.Placeholder" preserve="all"/>
+</assembly>
+</linker>

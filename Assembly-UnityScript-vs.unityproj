@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{724F4FBB-6A7E-8EC8-B53E-0C24B93F2BB8}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-UnityScript</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_5_0_1;UNITY_5_0;UNITY_5;ENABLE_LICENSE_RENAME;ENABLE_NEW_BUGREPORTER;ENABLE_2D_PHYSICS;ENABLE_4_6_FEATURES;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_NEW_HIERARCHY;ENABLE_PHYSICS;ENABLE_PHYSICS_PHYSX3;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_AUDIOMIXER_SUSPEND;ENABLE_NONPRO;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_SUBSTANCE;ENABLE_TEXTUREID_MAP;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_MONO;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Scripts\Bubble.js" />
+     <Compile Include="Assets\Scripts\BubbleSpawn.js" />
+     <Compile Include="Assets\Scripts\ButtonInput.js" />
+     <Compile Include="Assets\Scripts\CameraMove.js" />
+     <Compile Include="Assets\Scripts\CameraPoint.js" />
+     <Compile Include="Assets\Scripts\Chemistry.js" />
+     <Compile Include="Assets\Scripts\ClicktoChange.js" />
+     <Compile Include="Assets\Scripts\ColorChange.js" />
+     <Compile Include="Assets\Scripts\CorrectAnswer.js" />
+     <Compile Include="Assets\Scripts\CorrectAnswerChem.js" />
+     <Compile Include="Assets\Scripts\Destroy.js" />
+     <Compile Include="Assets\Scripts\DestroyonExit.js" />
+     <Compile Include="Assets\Scripts\Detector.js" />
+     <Compile Include="Assets\Scripts\DisplayEquation.js" />
+     <Compile Include="Assets\Scripts\DisplayEquationChem.js" />
+     <Compile Include="Assets\Scripts\DisplayHealth.js" />
+     <Compile Include="Assets\Scripts\DisplayMultiplier.js" />
+     <Compile Include="Assets\Scripts\EnviroBubble.js" />
+     <Compile Include="Assets\Scripts\Fade.js" />
+     <Compile Include="Assets\Scripts\GameOver.js" />
+     <Compile Include="Assets\Scripts\GameOverChange.js" />
+     <Compile Include="Assets\Scripts\HighScore.js" />
+     <Compile Include="Assets\Scripts\Hold.js" />
+     <Compile Include="Assets\Scripts\HullDamage.js" />
+     <Compile Include="Assets\Scripts\MasterVolume.js" />
+     <Compile Include="Assets\Scripts\MenuMove.js" />
+     <Compile Include="Assets\Scripts\Move.js" />
+     <Compile Include="Assets\Scripts\MoveButton.js" />
+     <Compile Include="Assets\Scripts\Multiplication.js" />
+     <Compile Include="Assets\Scripts\Number interpret.js" />
+     <Compile Include="Assets\Scripts\Pause.js" />
+     <Compile Include="Assets\Scripts\PauseMove.js" />
+     <Compile Include="Assets\Scripts\PossibleAnswerChem.js" />
+     <Compile Include="Assets\Scripts\PossibleAnswerChem2.js" />
+     <Compile Include="Assets\Scripts\PossibleAnswers.js" />
+     <Compile Include="Assets\Scripts\PossibleAnswersTwo.js" />
+     <Compile Include="Assets\Scripts\Quit.js" />
+     <Compile Include="Assets\Scripts\RandomBullet.js" />
+     <Compile Include="Assets\Scripts\RandomMovement.js" />
+     <Compile Include="Assets\Scripts\RandomMovementOH-.js" />
+     <Compile Include="Assets\Scripts\Reset.js" />
+     <Compile Include="Assets\Scripts\Resume.js" />
+     <Compile Include="Assets\Scripts\RingSpawn.js" />
+     <Compile Include="Assets\Scripts\RocketMovement.js" />
+     <Compile Include="Assets\Scripts\Rotate.js" />
+     <Compile Include="Assets\Scripts\SaveVar.js" />
+     <Compile Include="Assets\Scripts\ScoreDisplay.js" />
+     <Compile Include="Assets\Scripts\SetRenderDistance.js" />
+     <Compile Include="Assets\Scripts\SetSize.js" />
+     <Compile Include="Assets\Scripts\SetVar.js" />
+     <Compile Include="Assets\Scripts\Shoot.js" />
+     <Compile Include="Assets\Scripts\ShootButton.js" />
+     <Compile Include="Assets\Scripts\Show.js" />
+     <Compile Include="Assets\Scripts\ShowAnswers.js" />
+     <Compile Include="Assets\Scripts\ShowHighScore.js" />
+     <Compile Include="Assets\Scripts\ShowVar.js" />
+     <Compile Include="Assets\Scripts\ShowandTell.js" />
+     <Compile Include="Assets\Scripts\ShowifOver.js" />
+     <Compile Include="Assets\Scripts\SizeFinder.js" />
+     <Compile Include="Assets\Scripts\Sound.js" />
+     <Compile Include="Assets\Scripts\Spawn.js" />
+     <Compile Include="Assets\Scripts\Star Spawner.js" />
+     <Compile Include="Assets\Scripts\StartSet.js" />
+     <Compile Include="Assets\Scripts\Stick.js" />
+     <Compile Include="Assets\Scripts\StickShow.js" />
+     <Compile Include="Assets\Scripts\SustainedShootButton.js" />
+     <Compile Include="Assets\Scripts\TimedMove.js" />
+     <Compile Include="Assets\Scripts\Visual.js" />
+     <Compile Include="Assets\Scripts\VolumeControl.js" />
+     <None Include="Assets\Fonts\audiowide\OFL.txt" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+ <HintPath>/Applications/Unity/Unity.app/Contents/PlaybackEngines/iossupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

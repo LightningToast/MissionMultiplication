@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SizeFinder.js">
+    <Files>
+      <File FileName="Assets/Scripts/SaveVar.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SetVar.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SizeFinder.js" Line="4" Column="21" />
+      <File FileName="Assets/Scripts/ClicktoChange.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ColorChange.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MoveButton.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Stick.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Hold.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Sound.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/VolumeControl.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Fade.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Visual.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ScoreDisplay.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DisplayMultiplier.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
