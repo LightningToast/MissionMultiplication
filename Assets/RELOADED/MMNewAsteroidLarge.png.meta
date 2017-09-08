@@ -1,0 +1,381 @@
+fileFormatVersion: 2
+guid: f690de876165b4603b5c15ad4ee991d4
+timeCreated: 1490267667
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MMNewAsteroidLarge_0
+    21300002: MMNewAsteroidLarge_1
+    21300004: MMNewAsteroidLarge_2
+    21300006: MMNewAsteroidLarge_3
+    21300008: MMNewAsteroidLarge_4
+    21300010: MMNewAsteroidLarge_5
+    21300012: MMNewAsteroidLarge_6
+    21300014: MMNewAsteroidLarge_7
+    21300016: MMNewAsteroidLarge_8
+    21300018: MMNewAsteroidLarge_9
+    21300020: MMNewAsteroidLarge_10
+    21300022: MMNewAsteroidLarge_11
+    21300024: MMNewAsteroidLarge_12
+    21300026: MMNewAsteroidLarge_13
+    21300028: MMNewAsteroidLarge_14
+    21300030: MMNewAsteroidLarge_15
+    21300032: MMNewAsteroidLarge_16
+    21300034: MMNewAsteroidLarge_17
+    21300036: MMNewAsteroidLarge_18
+    21300038: MMNewAsteroidLarge_19
+    21300040: MMNewAsteroidLarge_20
+    21300042: MMNewAsteroidLarge_21
+    21300044: MMNewAsteroidLarge_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 150
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MMNewAsteroidLarge_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 803
+        width: 272
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MMNewAsteroidLarge_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 777
+        width: 284
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MMNewAsteroidLarge_2
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 749
+        width: 260
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MMNewAsteroidLarge_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 416
+        width: 324
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MMNewAsteroidLarge_4
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 395
+        width: 244
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MMNewAsteroidLarge_5
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 255
+        width: 124
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MMNewAsteroidLarge_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 255
+        width: 116
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MMNewAsteroidLarge_7
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 236
+        width: 148
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MMNewAsteroidLarge_8
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 228
+        width: 168
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MMNewAsteroidLarge_9
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 224
+        width: 200
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MMNewAsteroidLarge_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 98
+        width: 113
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MMNewAsteroidLarge_11
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 110
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MMNewAsteroidLarge_12
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 117
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MMNewAsteroidLarge_13
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 97
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MMNewAsteroidLarge_14
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 77
+        width: 108
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MMNewAsteroidLarge_15
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 78
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MMNewAsteroidLarge_16
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 28
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MMNewAsteroidLarge_17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 25
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MMNewAsteroidLarge_18
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 23
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MMNewAsteroidLarge_19
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 27
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MMNewAsteroidLarge_20
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 26
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MMNewAsteroidLarge_21
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 24
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MMNewAsteroidLarge_22
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 28
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
